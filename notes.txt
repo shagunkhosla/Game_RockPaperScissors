@@ -1,0 +1,25 @@
+badge class:
+user comp
+ids isliye di h qki baad mein alg se posn krna h inko
+
+.....
+inner divd
+images wrapped insode divs
+..
+import font
+fonts.google.com
+asap
++
+customise
+medium bold etc
+import
+linl given 
+paste in css
+.....
+padding 15px 20 px auto
+15 px at top and bottom and 20 px at left and right
+.
+....
+class badge child of class score board
+position agr relative daali hb score board mein toh mtlb children ki position usse relative hogi
+........
